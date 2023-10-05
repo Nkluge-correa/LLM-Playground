@@ -16,6 +16,8 @@ This repository contains a simple `Dash` application that runs a Large Language 
 3. Open a web browser and navigate to `http://localhost:8050`
 4. Have fun using it! 🤗
 
+> Note: This repository is ready for deployment in [`Heroku`](https://www.heroku.com/). Just connect the repo to your Heroku app.
+
 ## Contributing 🤝
 
 1. Fork the repository
