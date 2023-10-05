@@ -1,0 +1,6 @@
+dash
+pandas
+requests
+gunicorn
+flask_caching
+dash_bootstrap_components
