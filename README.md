@@ -6,7 +6,7 @@ This repository contains a simple `Dash` application that runs a Large Language 
 
 ## Installation ⚙️
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/Nkluge-correa/LLM-Playground.git`
 2. Install the required packages: `pip install -r requirements.txt`
 
 ## Usage 🕹️
