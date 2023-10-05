@@ -2,7 +2,7 @@
 
 This repository contains a simple `Dash` application that runs a Large Language Model playground (i.e., a place to interact and experiment with them) powered by the Hugging Face Inference API. The app is responsive and works well on mobile too.
 
-![demo-image](assets/demo.png)
+<img src="assets/demo.png" alt="demo image" height="400">
 
 ## Installation ⚙️
 
